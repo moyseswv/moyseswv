@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moyseswv (Moysés)
 - 👀 I’m interested in ... good ideas
-- 🌱 I’m currently learning ... to program, to codify, sleep less...
+- 🌱 I’m currently learning ... to program, to codify...
 - 💞️ I’m looking to collaborate on ... good projects
 - 📫 How to reach me ... send me an email. moysesemyrdev@gmail.com
 
